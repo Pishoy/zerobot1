@@ -1,0 +1,8 @@
+hostname: rackt-storage03
+ip: 192.168.55.220
+lkrnUrl: http://unsecure.bootstrap.gig.tech/ipxe/v1.4.1/c7c8172af1f387a6/organization=%22bishoy_farm%22%20development%20debug
+mac: 88:91:dd:00:00:8c
+network: 192.168.55.0/24
+powerState: 1
+racktivities: rackt-storage03_rackt_client
+zerobootClient: zboot1-zb

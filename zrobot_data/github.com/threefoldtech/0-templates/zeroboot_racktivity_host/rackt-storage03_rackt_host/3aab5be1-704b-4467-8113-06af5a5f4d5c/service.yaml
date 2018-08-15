@@ -1,0 +1,5 @@
+guid: 3aab5be1-704b-4467-8113-06af5a5f4d5c
+name: rackt-storage03_rackt_host
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_racktivity_host/0.0.1
+version: 0.0.1
