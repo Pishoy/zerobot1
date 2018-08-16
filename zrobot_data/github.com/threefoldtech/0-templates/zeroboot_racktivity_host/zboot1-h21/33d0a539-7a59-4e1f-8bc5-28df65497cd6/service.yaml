@@ -1,0 +1,5 @@
+guid: 33d0a539-7a59-4e1f-8bc5-28df65497cd6
+name: zboot1-h21
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_racktivity_host/0.0.1
+version: 0.0.1
