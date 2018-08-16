@@ -1,0 +1,5 @@
+guid: 14b187b7-e54a-4c8b-83a9-b1d09872f90f
+name: rackt-storage03_rackt_client1
+public: false
+template: github.com/threefoldtech/0-templates/racktivity_client/0.0.1
+version: 0.0.1
