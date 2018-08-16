@@ -1,0 +1,5 @@
+guid: f3945a7f-ca34-4dc8-aed3-870324162802
+name: zboot1-host1
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_racktivity_host/0.0.1
+version: 0.0.1
