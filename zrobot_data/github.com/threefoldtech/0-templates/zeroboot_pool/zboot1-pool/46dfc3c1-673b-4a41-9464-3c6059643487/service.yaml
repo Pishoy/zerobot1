@@ -1,0 +1,5 @@
+guid: 46dfc3c1-673b-4a41-9464-3c6059643487
+name: zboot1-pool
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_pool/0.0.1
+version: 0.0.1

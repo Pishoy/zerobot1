@@ -1,0 +1,9 @@
+hostname: ''
+ip: ''
+lkrnUrl: ''
+mac: ''
+powerState: false
+racktivities: []
+zerobootClient: ''
+zerobootHosts:
+- zboot1-host5
