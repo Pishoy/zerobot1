@@ -1,9 +1,0 @@
-hostname: host-01
-ip: 192.168.55.217
-lkrnUrl: http://unsecure.bootstrap.gig.tech/ipxe/v1.4.1/c7c8172af1f387a6/organization=%22bishoy_farm%22%20development%20debug
-mac: f4:6d:04:2b:97:28
-network: 192.168.55.0/24
-powerState: 1
-racktivities:
-- zboot1-client
-zerobootClient: zboot1-zb
