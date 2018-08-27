@@ -1,0 +1,5 @@
+guid: c7839e36-897a-4f4a-a0f8-e2cd81765ad1
+name: zboot1-ssh2
+public: false
+template: github.com/threefoldtech/0-templates/ssh_client/0.0.1
+version: 0.0.1
