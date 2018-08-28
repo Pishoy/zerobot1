@@ -1,0 +1,11 @@
+hostname: test-pc-host1
+ip: 192.168.55.222
+lkrnUrl: https://bootstrap.gig.tech/krn/v1.4.1/c7c8172af1f387a6/farmer_id=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhenAiOiJ0aHJlZWZvbGQuZmFybWVycyIsImV4cCI6MTUzMzAyOTUwOCwiaXNzIjoiaXRzeW91b25saW5lIiwicmVmcmVzaF90b2tlbiI6InZOSG9oWmJNUml5VWdhZVNMM2FWR28ycGxjUkYiLCJzY29wZSI6WyJ1c2VyOm1lbWJlcm9mOmJpc2hveV9mYXJtIl0sInVzZXJuYW1lIjoibWlraGFpZWIifQ.H1oIDv3Q1SHey9B-w2rCM0hy2N1TyJ7D5c7PTqNYwxDLLu5hKSOX-Df9zIPbV-IOzxj7ystnPsyzx4jqmJrgKD_zfAfcP511YwHn67tz50okg8K7BYEOBvSTJ8mXxQD0
+mac: f4:6d:04:2b:97:8e
+network: 192.168.55.0/24
+powerState: true
+racktivities:
+-   client: zboot1-rackt7
+    port: 6
+    powermodule: p1
+zerobootClient: zboot1-zb7

@@ -1,0 +1,5 @@
+guid: 6de115db-c671-4322-bb92-6e6a2875c79b
+name: zboot1-rackt7
+public: false
+template: github.com/threefoldtech/0-templates/racktivity_client/0.0.1
+version: 0.0.1

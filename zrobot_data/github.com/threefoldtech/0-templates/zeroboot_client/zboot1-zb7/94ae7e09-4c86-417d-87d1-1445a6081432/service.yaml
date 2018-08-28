@@ -1,0 +1,5 @@
+guid: 94ae7e09-4c86-417d-87d1-1445a6081432
+name: zboot1-zb7
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_client/0.0.1
+version: 0.0.1

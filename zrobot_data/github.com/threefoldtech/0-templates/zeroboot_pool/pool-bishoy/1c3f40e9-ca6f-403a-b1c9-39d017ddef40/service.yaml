@@ -1,0 +1,5 @@
+guid: 1c3f40e9-ca6f-403a-b1c9-39d017ddef40
+name: pool-bishoy
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_pool/0.0.1
+version: 0.0.1
