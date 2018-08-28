@@ -1,0 +1,5 @@
+guid: 6fe03b5a-29e2-4563-8096-ea0da86b1197
+name: host-rackt-2
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_racktivity_host/0.0.1
+version: 0.0.1
