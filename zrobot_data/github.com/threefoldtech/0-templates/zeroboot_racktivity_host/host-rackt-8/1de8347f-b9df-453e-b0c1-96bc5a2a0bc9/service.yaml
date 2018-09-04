@@ -1,0 +1,5 @@
+guid: 1de8347f-b9df-453e-b0c1-96bc5a2a0bc9
+name: host-rackt-8
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_racktivity_host/0.0.1
+version: 0.0.1

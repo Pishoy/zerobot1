@@ -1,0 +1,5 @@
+guid: 9bafdd22-4494-4320-a823-6b2f49cd80ec
+name: vm003
+public: false
+template: github.com/threefoldtech/0-templates/dm_vm/0.0.1
+version: 0.0.1

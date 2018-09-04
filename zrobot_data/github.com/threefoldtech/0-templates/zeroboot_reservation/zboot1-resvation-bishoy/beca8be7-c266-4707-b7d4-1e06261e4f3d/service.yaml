@@ -1,0 +1,5 @@
+guid: beca8be7-c266-4707-b7d4-1e06261e4f3d
+name: zboot1-resvation-bishoy
+public: false
+template: github.com/threefoldtech/0-templates/zeroboot_reservation/0.0.1
+version: 0.0.1

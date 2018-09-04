@@ -1,0 +1,5 @@
+guid: 9acb76b3-845f-4b44-962b-6d9e254ca4ed
+name: vmb3
+public: false
+template: github.com/threefoldtech/0-templates/dm_vm/0.0.1
+version: 0.0.1

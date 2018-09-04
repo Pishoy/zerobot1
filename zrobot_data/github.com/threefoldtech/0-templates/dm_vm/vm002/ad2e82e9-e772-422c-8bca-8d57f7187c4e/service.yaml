@@ -1,0 +1,5 @@
+guid: ad2e82e9-e772-422c-8bca-8d57f7187c4e
+name: vm002
+public: false
+template: github.com/threefoldtech/0-templates/dm_vm/0.0.1
+version: 0.0.1

@@ -1,0 +1,5 @@
+guid: adc1a10a-1e5f-435d-bce7-7f8781bad346
+name: vm-new
+public: false
+template: github.com/threefoldtech/0-templates/vm/0.0.1
+version: 0.0.1
