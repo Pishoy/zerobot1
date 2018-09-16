@@ -1,5 +1,0 @@
-guid: 900e4652-69d8-4000-83b0-9acb14baa758
-name: zt-client
-public: false
-template: github.com/threefoldtech/0-templates/zerotier_client/0.0.1
-version: 0.0.1
