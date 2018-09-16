@@ -10,7 +10,10 @@ mgmtNic:
 minioLogin: test
 minioPassword: test12345
 minioUrl: ''
-namespaces: []
+namespaces:
+-   name: ddps0355hwggu93y
+    node: 10bf48d64518
+    url: http://10.102.21.141:6600
 nsPassword: bremjx38lw9sqbojtgxzhsdy37h009z5
 parityShards: 4
 storageNic: ''
