@@ -1,0 +1,12 @@
+-   action_name: install
+    args: null
+    created: 1537095043
+    eco: null
+    guid: 1abe9d69-8971-4eae-9b7e-6483cdf30135
+    state: running
+-   action_name: save
+    args: null
+    created: 1537095052
+    eco: null
+    guid: df5f7b37-5173-4f9b-989b-09abd6ec9721
+    state: new
