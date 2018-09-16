@@ -1,0 +1,21 @@
+dataShards: 16
+farmerIyoOrg: operation
+gateway: ''
+gatewayPrivateNetwork: ''
+gatewayPublicNetwork: ''
+gatewayRobot: ''
+mgmtNic:
+    id: 35c192ce9b7015e9
+    ztClient: 08c77c025b
+minioLogin: test
+minioPassword: test12345
+minioUrl: ''
+namespaces: []
+nsPassword: ruho7eahoz7gzbazyr2m2gowqebc8m1r
+parityShards: 4
+storageNic: ''
+storageSize: 2
+storageType: ssd
+vmIp: ''
+vmMacaddress: ''
+vmPort: 0
